@@ -2,7 +2,7 @@ import psycopg2
 
 
 connection = None
-host = "127.0.0.1"
+host = "localhost"
 user = "admin"
 password = "admin"
 port = "5432"
